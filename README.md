@@ -1,5 +1,8 @@
 ## Hey I'm Itua 👋
 
+- I'm currently working on 
+**[Neemota](https://neemota.com)** — Fleet hire-purchase SaaS. Multi-tenant, structurally isolated per operator.
+
 **find me**
 
 [iakhator.com](https://iakhator.com)
