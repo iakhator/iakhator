@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hey I'm Itua 👋
 
-## find me
+**find me**
 
 [iakhator.com](https://iakhator.com)
 
