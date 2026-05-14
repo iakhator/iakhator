@@ -3,9 +3,9 @@
 - I'm currently working on 
 **[Neemota](https://neemota.com)** — Fleet hire-purchase SaaS. Multi-tenant, structurally isolated per operator.
 
-**find me**
+<!-- **find me some of my ** 
 
-[iakhator.com](https://iakhator.com)
+[iakhator.com](https://iakhator.com) -->
 
 <!--
 **iakhator/iakhator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
