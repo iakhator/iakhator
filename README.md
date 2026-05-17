@@ -1,4 +1,4 @@
-## Hey I'm Itua 👋
+## Software Engineer 👋
 
 - I'm currently working on 
 **[Neemota](https://neemota.com)** — Fleet hire-purchase SaaS. Multi-tenant, structurally isolated per operator.
